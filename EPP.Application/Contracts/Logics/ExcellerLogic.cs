@@ -23,7 +23,7 @@ namespace EPP.Application.Contracts.Logics
                 FirstName = _.FirstName,
                 FatherName = _.FatherName,
                 GrandFatherName = _.GrandFatherName,
-                ContractrSigningDate = _.ContractrSigningDate,
+                ContractSigningDate = _.ContractSigningDate,
                 YearsOfExperience = _.YearsOfExperience,
                 CreatedAt = _.CreatedAt,
                 ModifiedAt = _.ModifiedAt
